@@ -1,16 +1,16 @@
 # All In One (Dream Project - Readmyviews)
 
+### Aim of Repository
+- Main aim of this repository is to spread knowlegde and provide meaning full resources to developers
+- This repository is not created for getting any faim or any financial greed.
+- I have used different resource(pdf, ppt, xls) from variours websites and sources which is/will always belongs to them. The copyrite of that information will be remain to the real owners only.
+- Please share your concerns on pratikpatel8889@gmaiil.com.
+
 ``` bash
-
-1. Main aim of this repository is to spread knowlegde and provide meaning full resources to developers.
-2. This repository is not created for getting any faim or any financial greed. 
-3. I have used different resource(pdf, ppt, xls) from variours websites and sources which is/will always belongs to them. The copyrite of that information will be remain to the real owners only.
-4. Please share your concerns on pratikpatel8889@gmaiil.com.
-5. Please check different folders for important resources.
-
+ Note: Please check different folders for important resources.
 ```
 
-### [View all Roadmaps](https://roadmap.sh) - [Reference Site](https://github.com/kamranahmedse/developer-roadmap)
+### [View all Roadmaps](https://roadmap.sh) - [Reference Site - Roadmap.sh](https://github.com/kamranahmedse/developer-roadmap)
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -38,7 +38,18 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Blockchain Roadmap](https://roadmap.sh/blockchain)
 - [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
 
+## Share with the community
+
+Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://roadmap.sh&text=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+
 ![](https://i.imgur.com/waxVImv.png)
+
 
 
 
