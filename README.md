@@ -10,7 +10,7 @@
  Note: Please check different folders for important resources.
 ```
 
-### [View all Roadmaps](https://roadmap.sh) - [Reference Site - Roadmap.sh](https://github.com/kamranahmedse/developer-roadmap)
+### [View all Roadmaps](https://roadmap.sh) - [Reference](https://github.com/kamranahmedse/developer-roadmap)
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -37,6 +37,8 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [DBA Roadmap](https://roadmap.sh/postgresql-dba)
 - [Blockchain Roadmap](https://roadmap.sh/blockchain)
 - [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
+- [Laravel Roadmap](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path) - [Reference is Laravel Daily](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+- [Laravel Tips](https://github.com/LaravelDaily/laravel-tips) - [Reference is Laravel Daily](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
 ## Share with the community
 
